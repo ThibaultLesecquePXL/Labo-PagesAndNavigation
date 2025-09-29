@@ -10,7 +10,7 @@
 
     <ShellContent
         Title="Home"
-        ContentTemplate="{DataTemplate local:Pages.HelloPage}"
+        ContentTemplate="{DataTemplate local:Pages.HomePage}"
         Route="MainPage" />
 
 </Shell>
